@@ -1,0 +1,8 @@
+nombre = input('Nombre: ')
+apellido = input('apellido: ')
+edad = input ('Edad: ')
+telefono = input('Telefono: ')
+print ('Nombre:', apellido + ',', nombre)
+print ('------------')
+print ('Edad:', edad, 'anios')
+print ('Telefono: +52' + telefono)
