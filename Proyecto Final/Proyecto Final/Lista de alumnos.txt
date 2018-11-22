@@ -1,0 +1,10 @@
+Nombre del alumno: aldo maximino ibarra melendez
+Correo del alumno: aldomaximino1@hotmail.com
+Telefono del alumno: 8113233835
+Matricula del alumno: 1736859
+Calificacion 1: 82
+Calificacion 2: 73
+Calificacion 3: 92
+Promedio final: 80.45
+Direccion del alumno: santiago derqui #4628 Colonia san martin
+------------------------------------------------
