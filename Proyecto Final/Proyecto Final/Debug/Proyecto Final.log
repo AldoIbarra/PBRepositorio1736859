@@ -1,0 +1,4 @@
+﻿  Proyecto Final.cpp
+c:\users\aldom\desktop\la maquina\fcfm\2do\pbásica\proyecto final\proyecto final\proyecto final.cpp(35): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\aldom\desktop\la maquina\fcfm\2do\pbásica\proyecto final\proyecto final\proyecto final.cpp(153): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Proyecto Final.vcxproj -> C:\Users\aldom\Desktop\La maquina\FCFM\2do\PBásica\Proyecto Final\Debug\Proyecto Final.exe
